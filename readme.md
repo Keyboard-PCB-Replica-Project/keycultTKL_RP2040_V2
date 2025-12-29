@@ -2,7 +2,7 @@
 <img width="2879" height="1070" alt="image" src="https://github.com/user-attachments/assets/571c5246-a9d5-4ea9-a5d6-21719f23c5b7" />
 
 
-키컬트(Keycult) TKL 레플리카 PCB입니다. 
+키컬트(Keycult) TKL 레플리카 PCB V2입니다. 
 
 
 이전 버전과 달리, SMD LED가 아닌 3mm LED를 사용합니다.
@@ -17,7 +17,7 @@
 
 ----------------------------------------------------------
 
-This is a replica PCB for the Keycult TKL.
+This is a replica PCB V2 for the Keycult TKL.
 
 LEDs are not included.
 
